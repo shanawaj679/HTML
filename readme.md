@@ -18,9 +18,13 @@
     <div class="navbar-nav ml-auto">
       <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
       <a class="nav-link" href="#">About</a>
-      <a class="nav-link" href="#">Recipy</a>
+      <a class="nav-link" href="#">Recipe</a>
     </div>
   </div>
+</nav>
+  </body>
+</html>
+
 </nav>
   </body>
 </html>
